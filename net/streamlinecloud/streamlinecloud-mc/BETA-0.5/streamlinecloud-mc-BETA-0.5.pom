@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.streamlinecloud</groupId>
-    <artifactId>streamlinecloud.mc</artifactId>
+    <artifactId>streamlinecloud-mc</artifactId>
     <version>BETA-0.5</version>
     <packaging>jar</packaging>
 
